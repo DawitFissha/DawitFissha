@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DawitFissha
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning react.js and node.js
-- 💞️ I’m looking to collaborate on projects involving javascript
+- 👀 I’m interested in The web and everything javascript related
+- 🌱 I’m currently working on react.js and node.js projects
+- 💞️ I’m looking to collaborate on projects involving javascript/typescript 
 - 📫 You can reach me at dawitfissha1@gmail.com
 
 <!---
